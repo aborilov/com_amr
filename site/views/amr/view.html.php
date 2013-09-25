@@ -10,8 +10,10 @@ class AmrViewAmr extends JView
 {
 	function display($tpl = null)
 	{
-		$greeting = "Hello, World!";
+        $user = JFactory::getUser();
+		$greeting = "Hello";
 		$this->assignRef( 'greeting', $greeting );
+        $this->assignRef( 'user', $user->name );
 
 		parent::display($tpl);
 	}
