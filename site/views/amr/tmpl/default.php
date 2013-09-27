@@ -1,5 +1,10 @@
 <?php defined('_JEXEC') or die('Restricted access'); ?>
 <h1><?php echo $this->greeting; ?>,<?php echo $this->user; ?></h1>
+<head>
+<title>Показания счётчиков</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../css/coutn.css">
+</head>
 <body>
 
 <table border="0" width="30%" cellspacing="0" cellpadding="0">
