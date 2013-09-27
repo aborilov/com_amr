@@ -6,14 +6,12 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
 jimport( 'joomla.application.component.view');
 
 
-class AmrViewStat extends JView
+class AmrViewAdd extends JView
 {
 	function display($tpl = null)
 	{
         $user = JFactory::getUser();
-        $model = $this->getModel();
-        $greeting = $model->getGreeting();
-		// $greeting = "(stat)Hello";
+		$greeting = "Aloha";
 		$this->assignRef( 'greeting', $greeting );
         $this->assignRef( 'user', $user->name );
 
