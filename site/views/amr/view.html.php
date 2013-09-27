@@ -11,7 +11,7 @@ class AmrViewAmr extends JView
 	function display($tpl = null)
 	{
         $user = JFactory::getUser();
-		$greeting = "Hello";
+		$greeting = "Aloha";
 		$this->assignRef( 'greeting', $greeting );
         $this->assignRef( 'user', $user->name );
 
