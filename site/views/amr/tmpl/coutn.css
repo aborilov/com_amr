@@ -1,0 +1,20 @@
+table.shapka tr.add {
+	background-color: #98b9fa;
+	text-align: center;
+}
+tr.bdd {
+	text-align: center;
+	background-color: #ececec;
+}
+tr.cdd {
+	text-align: center;
+	background-color: #ffffff;
+}
+tr.ddd {
+	text-align: center;
+	background-color: #ececec;
+}
+tr.edd {
+	text-align: right;
+	background-color: #ececec;
+}
