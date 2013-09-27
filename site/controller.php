@@ -18,4 +18,10 @@ class AmrController extends JController
 		parent::display();
 	}
 
+    public function hello(){
+
+        echo "Hello";
+        jexit();
+    }
+
 }
