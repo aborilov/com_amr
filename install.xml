@@ -19,6 +19,7 @@
 		<filename>amr.php</filename>
 		<filename>index.html</filename>
 		<filename>models/stat.php</filename>
+		<filename>controllers/addcontr.php</filename>
 		<filename>views/index.html</filename>
 		<filename>views/amr/index.html</filename>
 		<filename>views/amr/view.html.php</filename>
