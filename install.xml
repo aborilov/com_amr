@@ -23,6 +23,10 @@
 		<filename>views/amr/view.html.php</filename>
 		<filename>views/amr/tmpl/default.php</filename>
 		<filename>views/amr/tmpl/index.html</filename>
+		<filename>views/stat/index.html</filename>
+		<filename>views/stat/view.html.php</filename>
+		<filename>views/stat/tmpl/default.php</filename>
+		<filename>views/stat/tmpl/index.html</filename>
 	</files>
 
 	<administration>
