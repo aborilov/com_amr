@@ -18,6 +18,7 @@
 		<filename>controller.php</filename>
 		<filename>amr.php</filename>
 		<filename>index.html</filename>
+		<filename>models/stat.php</filename>
 		<filename>views/index.html</filename>
 		<filename>views/amr/index.html</filename>
 		<filename>views/amr/view.html.php</filename>
@@ -27,6 +28,10 @@
 		<filename>views/stat/view.html.php</filename>
 		<filename>views/stat/tmpl/default.php</filename>
 		<filename>views/stat/tmpl/index.html</filename>
+		<filename>views/add/index.html</filename>
+		<filename>views/add/view.html.php</filename>
+		<filename>views/add/tmpl/default.php</filename>
+		<filename>views/add/tmpl/index.html</filename>
 	</files>
 
 	<administration>
