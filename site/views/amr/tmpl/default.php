@@ -2,8 +2,6 @@
 <h1><?php echo $this->greeting; ?>,<?php echo $this->user; ?></h1>
 <body>
 
-
-
 <table border="0" width="30%" cellspacing="0" cellpadding="0">
 <tr>
 <td>
