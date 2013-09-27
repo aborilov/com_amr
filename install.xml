@@ -39,4 +39,9 @@
 			<filename>index.html</filename>
 		</files>
 	</administration>
+	 <!-- UPDATESERVER DEFINITION -->
+        <updateservers>
+                <!-- Note: No spaces or linebreaks allowed between the server tags -->
+                <server type="extension" priority="1" name="AMR Update Site">http://vsk40.ru/update/amr-update.xml</server>
+        </updateservers>
 </install>
